@@ -8,7 +8,9 @@ firebase-debug.log*
 
 # Firebase cache
 .firebase/
-.cache/
+
+# gatsby cache folder
+.cache
 
 # Firebase config
 
@@ -65,4 +67,4 @@ node_modules/
 # dotenv environment variables file
 .env
 
-public/
+public
